@@ -69,7 +69,8 @@ const todo_card = StyleSheet.create({
         borderRadius: 7
     },
     text: {
-        fontSize: 18
+        fontSize: 26,
+        color:"blue"
     }
 })
 
